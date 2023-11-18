@@ -1,5 +1,5 @@
 
-1) Clone the repository by using this command ➡️ git clone https://github.com/Subrata-Rudra/Quiz-Hub
+1) Clone the repository by using this command ➡️ git clone https://github.com/tejjgv/language.git
 2) Open terminal in that folder.
 3) In the terminal run ➡️ cd backend
 4) Now run ➡️ npm install
