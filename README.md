@@ -8,10 +8,6 @@
 7) Now run ➡️ npm install
 8) Now exit from terminal. Now, you are all set up to run the app on your device.
 ## Run Locally
-1) Open the folder in VS Code.
-2) Create a new file named ".env".
-3) Now write a line in .env file MONGO_URI = URL_OF_YOUR_MONGODB_CLUSTER
-4) Now write another line in .env file JWT_SECRET = <YOUR_PRIVATE_JWT_SECRET>
 5) Open terminal in the folder.
 6) Run ➡️ cd backend
 4) Run ➡️ npm run start
